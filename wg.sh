@@ -7,4 +7,4 @@ MTU = 1500
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
 AllowedIPs = 0.0.0.0/0
 AllowedIPs = ::/0
-Endpoint = 162.159.192.159:7103
+Endpoint = 162.159.195.6:890
